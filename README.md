@@ -1,9 +1,4 @@
----
-language: none
-tags: css, responsive, layout, media queries
-type: intro
-resources: 0
----
+
 
 ## Responsive Layouts
 
